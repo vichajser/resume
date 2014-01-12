@@ -1,5 +1,4 @@
 ![my pic][1]
-
 周伟强
 ===
 
@@ -61,5 +60,6 @@
 
     
 
-  [1]: https://github.com/zwq/resume/blob/master/resume/1.jpg
+
+  [1]: 1.jpg
   [2]: https://github.com/zwq
