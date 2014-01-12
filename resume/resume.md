@@ -1,4 +1,4 @@
-<img style="width:121px;heihgt:152px;"src="1.jpg" />
+<img style="width:121px;"src="1.jpg" />
 周伟强
 ===
 
