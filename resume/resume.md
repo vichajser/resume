@@ -1,4 +1,4 @@
-![my pic][1]
+<img style='width:121;height:152' src="1.jpg"></img>
 周伟强
 ===
 
